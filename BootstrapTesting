@@ -1,0 +1,25 @@
+<div class="container">
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <ul>
+        <li>#9ffce6</li>
+        <li></li>
+      </ul>I love to code :)
+    </div>
+  </nav>
+  <div class="jumbotron" style="background-color:#9ffce6; color:#e8aef9">
+    <h1>
+      My name is Malia and I love to do fashion and I love to dance. 
+    </h1>
+  </div>
+  <div class="panel panel-default">
+  <div class="panel-body">
+    My first panel!
+  </div>
+</div>
+<div class="btn-group" role="group" aria-label="...">
+  <button type="button" class="btn btn-default">Left</button>
+  <button type="button" class="btn btn-default">Middle</button>
+  <button type="button" class="btn btn-default">Right</button>
+</div>
+</div>
